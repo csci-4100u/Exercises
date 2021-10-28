@@ -17,6 +17,6 @@ Create a Login Page (or use an existing one) and re-code it using BLoC approach.
 Important: If you get an error `Tried to listen to a value exposed with provider, from outside of the widget tree`, replace `context.watch<ProviderHelper>()` and `context.read<ProviderHelper>()` with `Provider.of<ProviderHelper>(context, listen:false)`. This is just another way of triggering a provider.
 
 Below is the expected output: <br />     
-![Basic Layout](./images/bloc.png) &nbsp; &nbsp; &nbsp;  <br />
+![Basic Layout](https://github.com/csci-4100u/Exercises/blob/a63946a59bcdf36bfd7f1b0c44929fe12ca7a30f/Exercise%209/images/Bloc.PNG) &nbsp; &nbsp; &nbsp;  <br />
 
 
