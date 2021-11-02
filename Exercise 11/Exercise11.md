@@ -23,6 +23,6 @@ fruits.doc(docID).delete(),
 You are required to figure out a way to get the id for each document to delete it.
 
 Below is the expected output: <br />     
-![Intermediate](./images/exercise.png) &nbsp; &nbsp; &nbsp;  <br />
+![Intermediate](https://github.com/csci-4100u/Exercises/blob/9fe5b5e277e201854c2215704c38bc1c92206966/Exercise%2011/images/exercise.PNG) &nbsp; &nbsp; &nbsp;  <br />
 
 
