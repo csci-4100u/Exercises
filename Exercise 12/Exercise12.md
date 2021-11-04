@@ -27,7 +27,7 @@ You are required to use HTTP to fetch data from `//http://universities.hipolabs.
 Take advantage of queryParameters to provide parameters for search for a specific country. Do not hard-code `Canada` in the URL, instead use queryParameter of Uri.http to work with the country provided (in this case Canada). You should still be using `FutureBuilder` to help you build your `ListView`.
 
 Below is the expected output: <br />     
-![Intermediate](https://github.com/csci-4100u/Exercises/blob/a4f4e491dcff89c4e34dd0e2b97b42ed0c14c2ce/Exercise%2012/images/Mobile_Device_Http_Basic.PNG) &nbsp; &nbsp; &nbsp;  <br />
+![Intermediate](https://github.com/csci-4100u/Exercises/blob/15ac01576d7e657601ab321019af1241ba9a03d6/Exercise%2012/images/Mobile_Device_Http_Intermediate.PNG) &nbsp; &nbsp; &nbsp;  <br />
 
 
 ### Challenging
