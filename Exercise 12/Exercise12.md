@@ -34,4 +34,4 @@ Below is the expected output: <br />
 You are required to use HTTP to fetch data from `https://api.imgflip.com/get_memes`. This API returns images for popular memes on the Internet. Your task in this exercise is to fetch all the images provided by this API and show them in a GridView in Flutter app. Keep using `FutureBuilder` to return `GridView.builder` to show the images returned by this API. You might need to read deep into the data provided back to you to get the URL of the image.
 
 Below is the expected output: <br />     
-![Intermediate](./images/Mobile_Device_Http_Challenging.png) &nbsp; &nbsp; &nbsp;  <br />
+![Intermediate](https://github.com/csci-4100u/Exercises/blob/85117ff7298a1c4581d5f2bfff85be9afadd72fc/Exercise%2012/images/Mobile_Device_Http_Challenging.PNG) &nbsp; &nbsp; &nbsp;  <br />
