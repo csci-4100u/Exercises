@@ -10,7 +10,7 @@ This exercise is expected you to get yourself familiarized with HTTP in Flutter.
 You are required to use HTTP to fetch data from `https://jsonplaceholder.typicode.com/todos` and show the title of todo in a `ListView` along with `id`, `userId` and `completed` status as the leading, trailing and subtext respectively text for the `ListView`. 
 
 Below is the expected output: <br />     
-![Intermediate](./images/Mobile_Device_Http_Basic.png) &nbsp; &nbsp; &nbsp;  <br />
+![Intermediate](https://github.com/csci-4100u/Exercises/blob/a4f4e491dcff89c4e34dd0e2b97b42ed0c14c2ce/Exercise%2012/images/Mobile_Device_Http_Basic.PNG) &nbsp; &nbsp; &nbsp;  <br />
 
 
 ### Intermediate
